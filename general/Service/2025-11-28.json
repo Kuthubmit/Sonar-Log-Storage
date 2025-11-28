@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-11-28T03:21:39.1361204+03:00",
+    "level": 2,
+    "category": 8,
+    "guildId": null,
+    "guildName": null,
+    "message": "DIRECT LOG: Application started",
+    "caller": "Log",
+    "file": "CustomLoggerProvider.cs",
+    "line": 99,
+    "threadId": 11,
+    "exception": null,
+    "depth": 0
+  }
+]
