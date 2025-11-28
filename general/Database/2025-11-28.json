@@ -166,5 +166,47 @@
     "threadId": 14,
     "exception": null,
     "depth": 0
+  },
+  {
+    "timestamp": "2025-11-28T03:28:28.2895264+03:00",
+    "level": 3,
+    "category": 9,
+    "guildId": null,
+    "guildName": null,
+    "message": "Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.",
+    "caller": "Log",
+    "file": "EfCoreLoggerProvider.cs",
+    "line": 47,
+    "threadId": 5,
+    "exception": null,
+    "depth": 0
+  },
+  {
+    "timestamp": "2025-11-28T03:28:29.4355812+03:00",
+    "level": 2,
+    "category": 9,
+    "guildId": null,
+    "guildName": null,
+    "message": "Executed DbCommand (46ms) [Parameters=[], CommandType='Text', CommandTimeout='30']\r\nSELECT count(*)::int\r\nFROM \"AspNetUsers\" AS a",
+    "caller": "Log",
+    "file": "EfCoreLoggerProvider.cs",
+    "line": 47,
+    "threadId": 13,
+    "exception": null,
+    "depth": 0
+  },
+  {
+    "timestamp": "2025-11-28T03:28:29.6772508+03:00",
+    "level": 2,
+    "category": 9,
+    "guildId": null,
+    "guildName": null,
+    "message": "Executed DbCommand (14ms) [Parameters=[], CommandType='Text', CommandTimeout='30']\r\nSELECT count(*)::int\r\nFROM \"AspNetUsers\" AS a",
+    "caller": "Log",
+    "file": "EfCoreLoggerProvider.cs",
+    "line": 47,
+    "threadId": 13,
+    "exception": null,
+    "depth": 0
   }
 ]
