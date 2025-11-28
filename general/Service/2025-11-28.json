@@ -68,5 +68,33 @@
     "threadId": 5,
     "exception": null,
     "depth": 0
+  },
+  {
+    "timestamp": "2025-11-28T03:31:24.0701026+03:00",
+    "level": 2,
+    "category": 8,
+    "guildId": null,
+    "guildName": null,
+    "message": "Application is starting...",
+    "caller": "Log",
+    "file": "CustomLoggerProvider.cs",
+    "line": 99,
+    "threadId": 5,
+    "exception": null,
+    "depth": 0
+  },
+  {
+    "timestamp": "2025-11-28T03:31:24.2801267+03:00",
+    "level": 2,
+    "category": 8,
+    "guildId": null,
+    "guildName": null,
+    "message": "Application fully started. Listening on configured ports.",
+    "caller": "Log",
+    "file": "CustomLoggerProvider.cs",
+    "line": 99,
+    "threadId": 5,
+    "exception": null,
+    "depth": 0
   }
 ]
