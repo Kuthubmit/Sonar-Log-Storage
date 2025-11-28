@@ -54,5 +54,33 @@
     "threadId": 92,
     "exception": null,
     "depth": 0
+  },
+  {
+    "timestamp": "2025-11-28T10:50:47.9831805+00:00",
+    "level": 2,
+    "category": 9,
+    "guildId": null,
+    "guildName": null,
+    "message": "Executed DbCommand (5ms) [Parameters=[], CommandType='Text', CommandTimeout='30']\nSELECT count(*)::int\nFROM \"AspNetUsers\" AS a",
+    "caller": "Log",
+    "file": "EfCoreLoggerProvider.cs",
+    "line": 47,
+    "threadId": 53,
+    "exception": null,
+    "depth": 0
+  },
+  {
+    "timestamp": "2025-11-28T10:50:48.0207727+00:00",
+    "level": 2,
+    "category": 9,
+    "guildId": null,
+    "guildName": null,
+    "message": "Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']\nSELECT count(*)::int\nFROM \"AspNetUsers\" AS a",
+    "caller": "Log",
+    "file": "EfCoreLoggerProvider.cs",
+    "line": 47,
+    "threadId": 53,
+    "exception": null,
+    "depth": 0
   }
 ]
